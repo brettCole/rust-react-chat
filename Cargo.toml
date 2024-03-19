@@ -16,3 +16,4 @@ serde_json = "1.0.88"
 diesel = { version = "2", features = ["sqlite", "r2d2"] }
 uuid = { version = "1", features = ["v4", "serde"] }
 actix-cors = "0.7.0"
+chrono = "0.4.35"
